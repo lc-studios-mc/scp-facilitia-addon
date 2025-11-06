@@ -6,6 +6,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@mcbe-toolbox-lc/builder": "0.1.0-beta.0",
 		"@types/node": "^22.19.0",
 		"dotenv-cli": "^11.0.0",
 		"prettier": "^3.6.2",
