@@ -6,6 +6,10 @@
 	"scripts": {
 		"format": "prettier --write ."
 	},
+	"dependencies": {
+		"@minecraft/server": "2.3.0",
+		"@minecraft/server-ui": "2.0.0"
+	},
 	"devDependencies": {
 		"@mcbe-toolbox-lc/builder": "0.1.0-beta.0",
 		"@types/node": "^22.19.0",
