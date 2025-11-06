@@ -4,6 +4,9 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
+		"build": "dotenv -- tsx scripts/build.ts",
+		"build:dev": "dotenv -v DEV=1 -- tsx scripts/build.ts",
+		"build:dev:watch": "dotenv -v DEV=1 -v WATCH=1 -- tsx scripts/build.ts",
 		"format": "prettier --write ."
 	},
 	"dependencies": {
