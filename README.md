@@ -10,11 +10,12 @@ An add-on for Minecraft Bedrock that aims to provide the essentials for creating
 
 ## About
 
-**SCP Facilitia doesn't have any SCPs.** 
+**SCP Facilitia doesn't have any SCPs.**
 
 Instead, it focuses only on the general aspects of SCP facilities. ⚙️
 
 Some of the features SCP Facilitia offers include:
+
 - Construction blocks
 - Decoration/furniture blocks
 - Doors
