@@ -1,0 +1,7 @@
+build/
+dist/
+node_modules/
+private/
+pnpm-lock.yaml
+*.animation.json
+*.geo.json
