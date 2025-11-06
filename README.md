@@ -8,23 +8,26 @@ An add-on for Minecraft Bedrock that aims to provide the essentials for creating
 
 </div>
 
-## What is SCP Facilitia
+## About
 
-### Provides essential features 🌟
+**SCP Facilitia doesn't have any SCPs.** 
 
-Some of the features Facilitia offers include:
-- Construction blocks.
-- Furniture/Decoration blocks.
-- A simple and flexible door system.
-- Security cameras (CCTV).
+Instead, it focuses only on the general aspects of SCP facilities. ⚙️
 
-### Less specialized 🛠️
+Some of the features SCP Facilitia offers include:
+- Construction blocks
+- Decoration/furniture blocks
+- Doors
+- Security cameras (CCTV)
 
-<ins>Facilitia does not have SCPs, mobs, or guns.</ins>
-It remains a general part of your world, leaving the more specific aspects to other addons that handle them well.
+<ins>More specialized aspects like SCPs and guns should be achieved through other add-ons.</ins>
+
+SCP Facilitia is designed to be highly compatible,
+so you should be able to use other add-ons in the same world just fine. 🤝
 
 ## License
 
 Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
 
-You can use it, change it, and even sell it, as long as you **credit the creator** (e.g. by providing a link to this page) and share your modified version **under the exact same CC BY-SA 4.0 license**.
+You can use it, change it, and even sell it, as long as you **credit the creator** (e.g. by providing a link to this page)
+and share your modified version **under the exact same CC BY-SA 4.0 license**.
