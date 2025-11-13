@@ -1,6 +1,5 @@
 import * as builder from "@mcbe-toolbox-lc/builder";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 import packageConfig from "../package.json" with { type: "json" };
 
 // Referenced environment variables:
@@ -9,8 +8,6 @@ import packageConfig from "../package.json" with { type: "json" };
 // `DEV_RESOURCE_PACKS_DIR` | Path to your com.mojang/development_resource_packs folder. Required when `DEV=1`.
 // `VERSION`                | Add-on version string in `0.6.9` format. Does nothing when `DEV=1`.
 // `WATCH`                  | Whether to watch for file changes to rebuild automatically.
-
-console.log("Build script:", fileURLToPath(import.meta.url));
 
 // --- Define important variables
 
@@ -22,10 +19,6 @@ const minecraftPackageVersions = builder.getMinecraftPackageVersions(packageConf
 const minEngineVersion = [1, 21, 120];
 const behaviorPackUuid = "3a350932-f694-4cd1-90f1-074651500002";
 const resourcePackUuid = "adf053a8-cf45-4065-8fc2-87ac3c256748";
-
-console.log(`Dev: ${isDev}`);
-if (!isDev) console.log(`Version: ${versionForHumans}`);
-console.log(`Watch: ${shouldWatch}`);
 
 // --- Define pack manfiests
 
@@ -136,5 +129,3 @@ const config: builder.ConfigInput = {
 // --- Start build
 
 await builder.build(config);
-
-console.log("Build script finished.");
