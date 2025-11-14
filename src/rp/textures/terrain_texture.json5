@@ -4,6 +4,9 @@
 	num_mip_levels: 4,
 	padding: 8,
 	texture_data: {
+		"scpfa:checkerboard_black": {
+			textures: "textures/scpfa/blocks/solid/checkerboard_black",
+		},
 		"scpfa:checkerboard_gray": {
 			textures: "textures/scpfa/blocks/solid/checkerboard_gray",
 		},

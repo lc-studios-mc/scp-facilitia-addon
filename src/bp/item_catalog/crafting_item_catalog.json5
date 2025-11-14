@@ -10,7 +10,7 @@
 							icon: "scpfa:checkerboard_gray",
 							name: "scpfa:solid_blocks",
 						},
-						items: ["scpfa:checkerboard_gray"],
+						items: ["scpfa:checkerboard_gray", "scpfa:checkerboard_black"],
 					},
 				],
 			},
