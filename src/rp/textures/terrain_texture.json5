@@ -1,0 +1,11 @@
+{
+	resource_pack_name: "scp-facilitia-rp",
+	texture_name: "atlas.terrain",
+	num_mip_levels: 4,
+	padding: 8,
+	texture_data: {
+		"scpfa:checkerboard_gray": {
+			textures: "textures/scpfa/blocks/solid/checkerboard_gray",
+		},
+	},
+}
