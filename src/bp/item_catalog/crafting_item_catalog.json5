@@ -12,6 +12,14 @@
 						},
 						items: ["scpfa:checkerboard_gray", "scpfa:checkerboard_black"],
 					},
+
+					{
+						group_identifier: {
+							icon: "scpfa:button",
+							name: "scpfa:control_devices",
+						},
+						items: ["scpfa:button"],
+					},
 				],
 			},
 		],

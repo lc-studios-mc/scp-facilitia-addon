@@ -4,6 +4,9 @@
 	num_mip_levels: 4,
 	padding: 8,
 	texture_data: {
+		"scpfa:button": {
+			textures: "textures/scpfa/blocks/control_devices/button",
+		},
 		"scpfa:checkerboard_black": {
 			textures: "textures/scpfa/blocks/solid/checkerboard_black",
 		},

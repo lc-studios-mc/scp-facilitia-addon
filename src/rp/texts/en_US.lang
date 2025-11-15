@@ -1,4 +1,6 @@
 scpfa:solid_blocks=Solid Blocks §7[SCP Facilitia]§r
+scpfa:control_devices=Control Devices §7[SCP Facilitia]§r
 
+scpfa:button=Button
 scpfa:checkerboard_black=Black Checkerboard
 scpfa:checkerboard_gray=Gray Checkerboard
