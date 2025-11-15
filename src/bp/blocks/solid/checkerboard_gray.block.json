@@ -73,7 +73,8 @@
 				]
 			},
 			"tag:scpfa:block_any": {},
-			"tag:scpfa:block_solid": {}
+			"tag:scpfa:block_solid": {},
+			"tag:minecraft:is_pickaxe_item_destructible": {}
 		}
 	}
 }
